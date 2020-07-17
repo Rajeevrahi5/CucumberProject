@@ -1,10 +1,13 @@
-# CucumberProject
-Collaboration platform for BDD.
+# Appium_BDD_Framework
 
-Deliver quality at the speed of modern business.
+Behavioural driven development automation framework using Appium, selenium, cucumber-java, testng and maven
 
-Behavior-Driven Development is revolutionizing how organizations build software. 
 
-CucumberStudio gives your team the platform to succeed with BDD. It's a single source of truth for BDD development your whole team will love.
+**Tools and technologies used:**
 
-This project contains information about creating framework based on cucumber and selenium. 
+1. Language: Java
+2. Testing framework: Testng
+3. BDD framework: Cucumber
+4. Automation tool: Selenium-Appium
+5. Build tool: maven
+6. Logging: log4j
