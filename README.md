@@ -9,7 +9,7 @@ If you want to run Appium via an npm install, hack with Appium, or contribute to
 
 The actual installation is as simple as:
 
-    npm install -g appium
+    `npm install -g appium
 
 
 
